@@ -1,0 +1,24 @@
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\bin\Debug\Cadastros.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\bin\Debug\Cadastros.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\bin\Debug\Cadastros.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.Properties.Resources.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.csproj.GenerateResource.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.Form1.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.frmClientes.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C#\Sistema1\Cadastros\obj\Debug\Cadastros.frmFuncionarios.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\bin\Debug\Cadastros.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\bin\Debug\Cadastros.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\bin\Debug\Cadastros.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.Form1.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.frmClientes.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.frmFuncionarios.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.Properties.Resources.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.csproj.GenerateResource.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\C# Forms GitHub\0git Sistema1\Cadastros\obj\Debug\Cadastros.pdb
